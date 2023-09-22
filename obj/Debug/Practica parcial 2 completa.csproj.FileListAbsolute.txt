@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\bin\Debug\Practica parcial 2 completa.exe.config
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\bin\Debug\Practica parcial 2 completa.exe
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\bin\Debug\Practica parcial 2 completa.pdb
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\obj\Debug\Practica parcial 2 completa.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\obj\Debug\Practica parcial 2 completa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\obj\Debug\Practica_parcial_2_completa.Form1.resources
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\obj\Debug\Practica_parcial_2_completa.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\obj\Debug\Practica parcial 2 completa.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\obj\Debug\Practica parcial 2 completa.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\obj\Debug\Practica parcial 2 completa.exe
+C:\Users\Usuario\Desktop\Practica POO parcial 2\Practica parcial 2 completa\Practica parcial 2 completa\obj\Debug\Practica parcial 2 completa.pdb
